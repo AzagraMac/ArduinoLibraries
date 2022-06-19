@@ -54,12 +54,3 @@ Libraries:
 * StreamJoin
 * U8g2_Arduino
 * WaveHC
-
-
-* WiFi (For ESP32 onboard WiFi)
-* Wire
-* HTTPClient (To make requests to CoinMarketCap)
-* NTPClinet (Used to get the time for "Last Updated")
-* WiFiUdp (Used to get the time for "Last Updated")
-* ArduinoJson (Used to process JSON data retreived from CoinMarketCap)
-
