@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/SpacehuhnTech/arduino/main/package_spacehuhn_i
 ```
 
 ### Libraries:
-* Adafruit_SSD1306 (For the OLED Display)
+```
 * Adafruit_BusIO
 * Adafruit_Circuit_Playground
 * Adafruit_GFX_Library
@@ -71,4 +71,4 @@ https://raw.githubusercontent.com/SpacehuhnTech/arduino/main/package_spacehuhn_i
 * WebServer
 * WiFi
 * WiFiClientSecure
-
+```
