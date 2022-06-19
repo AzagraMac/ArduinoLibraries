@@ -50,7 +50,14 @@ Libraries:
 * NTPClient
 * RTClib
 * RTCZero
+* SD
+* SD_MMC
 * Servo
 * StreamJoin
 * U8g2_Arduino
+* USB
 * WaveHC
+* WebServer
+* WiFi
+* WiFiClientSecure
+
