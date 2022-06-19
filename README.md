@@ -2,10 +2,21 @@
   <img height="256" src="images/logo.jpeg">
 </p>
 
-## Installation
-Install libraries via `Tools > Manage Libraries`. Below is the list of libraries I used in this project. You should be able to find them pretty quick by typing these into the search bar. All libraries are found in the Arduino Library Manger(`Tools > Manage Libraries`.)
+## Installation libraries
+Install libraries via `Tools > Manage Libraries`.
+All libraries are found in the Arduino Library Manger(`Tools > Manage Libraries`.)
 
-Libraries:
+## Installation boards
+Copy the links of the boards, and paste in `Arduino > Preferences > Additional Boards Manager URLs` and restart IDE.
+
+### Boards:
+```
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+https://arduino.esp8266.com/stable/package_esp8266com_index.json
+https://raw.githubusercontent.com/SpacehuhnTech/arduino/main/package_spacehuhn_index.json
+```
+
+### Libraries:
 * Adafruit_SSD1306 (For the OLED Display)
 * Adafruit_BusIO
 * Adafruit_Circuit_Playground
