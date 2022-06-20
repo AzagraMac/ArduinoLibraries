@@ -14,7 +14,7 @@ All libraries are found in the Arduino Library Manger(`Tools > Manage Libraries`
 ## Installation boards
 Copy the links of the boards, and paste in `Arduino > Preferences > Additional Boards Manager URLs` and restart IDE.
 
-### Boards:
+### Boards, ESP32 / ESP8266:
 ```
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 https://arduino.esp8266.com/stable/package_esp8266com_index.json
