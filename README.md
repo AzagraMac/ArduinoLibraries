@@ -18,7 +18,6 @@ Copy the links of the boards, and paste in `Arduino > Preferences > Additional B
 ```
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 https://arduino.esp8266.com/stable/package_esp8266com_index.json
-https://raw.githubusercontent.com/SpacehuhnTech/arduino/main/package_spacehuhn_index.json
 ```
 
 ### Libraries:
