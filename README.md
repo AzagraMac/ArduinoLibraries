@@ -3,7 +3,12 @@
 </p>
 
 ## Installation libraries
-Install libraries via `Tools > Manage Libraries`.
+Copy the `libraries` folder to your user's Documents folder, and open the Arduino IDE.
+
+ - MacOS: `/Users/$user/Documents/Arduino`.
+ - Linux: `/home/$user/$user/Documents/Arduino`.
+ - Win: `C:\Users\$user\Documents\Arduino`.
+
 All libraries are found in the Arduino Library Manger(`Tools > Manage Libraries`.)
 
 ## Installation boards
